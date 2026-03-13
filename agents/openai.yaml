@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMS Builder"
+  short_description: "Build CMS models from mixed inputs."
+  default_prompt: "Use $cms-builder to design a platform-agnostic CMS content model from mixed requirements."
